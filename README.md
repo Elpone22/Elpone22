@@ -49,9 +49,6 @@ Soy un apasionado de las computadoras y la programación. Me entusiasmo exploran
 
 ## 📈 Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny12p&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
 ## 📫 Contacto
 
