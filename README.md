@@ -4,10 +4,7 @@
 
 ## 🌟 Sobre mí
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnny12p&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnny12p&theme=radical" alt="GitHub Streak"/>
-</div>
+
 
 Soy un apasionado de las computadoras y la programación. Me entusiasmo explorando nuevas tecnologías, aprendiendo continuamente y resolviendo problemas complejos a través del código.
 
