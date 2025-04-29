@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Elpone22/Elpone22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Johnny12p/Johnny12p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](./github-header-imagen.png)
+
+## Sobre mí
+Soy un apasionado de las computadoras y la programación. Me entusiasmo explorando nuevas tecnologías, aprendiendo continuamente y resolviendo problemas complejos a través del código.
+## Tecnologías y herramientas
+- **Lenguajes**: Python, PHP, Java, JavaScript, TypeScript, C#
+- **Frameworks**: Django, Laravel, Vue.js
+## Proyectos destacados
+_(Próximamente)_
+## Contacto
+✉️ clarocaballero455@gmail.com
+    |
